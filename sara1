@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Dogger &mdash; Website Template by Colorlib</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">    
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700, 900|Vollkorn:400i" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section">
+  
+
+  <div id="overlayer"></div>
+  <div class="loader">
+    <div class="spinner-border text-primary" role="status">
+      <span class="sr-only">Loading...</span>
+    </div>
+  </div>
+
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+   
+    
+    <header class="site-navbar js-sticky-header site-navbar-target" role="banner" >
+
+      <div class="container">
+        <div class="row align-items-center">
+          
+          <div class="col-6 col-xl-2">
+            <h1 class="mb-0 site-logo"><a href="index.html" class="h2 mb-0"><img src="images/r3.png"> </a></h1>
+          </div>
+
+          <div class="col-12 col-md-10 d-none d-xl-block">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="#home-section" class="nav-link">Home</a></li>
+                <li> <a href="#Features" class="nav-link">Features</a> </li>
+                 <li><a href="#about-section" class="nav-link">About Us</a></li>
+                </ul>
+            </nav>
+          </div>
+          <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a></div>
+        </div>
+      </div>
+      
+    </header>
+
+  
+    <section class="site-blocks-cover overflow-hidden bg-light">
+      <div class="container">
+        <div class="row">
+            <img src="images/cover.jpg" alt="Image" class="img-fluid cover-img">
+        </div>
+      </div>
+    </section> 
+
+    <section class="site-section" id="Features">
+      <div class="container">
+        <div class="row justify-content-center" data-aos="fade-up">
+          <div class="col-lg-6 text-center heading-section mb-5">
+           
+            <h2 class="text-black mb-2">App Features </h2>
+            
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6 order-lg-2" data-aos="fade-right">
+                <a href="#" class="hover-1">
+                  <img src="images/w1.jpg" alt="Image" class="img-fluid">
+                </a>            
+             </div>
+              <div class="col-lg-5 mr-auto text-lg-right align-self-center order-lg-1" data-aos="fade-left">
+                <h3 class="text-black">Choose from over 2,000 products at prices lower than supermarkets.</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+             <div class="mb-4 mb-lg-0 col-lg-6"  data-aos="fade-left">
+                <a href="#" class="hover-1">
+                  <img src="images/e2.jpg" alt="Image" class="img-fluid">
+                </a>
+              </div>
+              <div class="col-lg-5 ml-auto align-self-center"  data-aos="fade-right">
+                <h3 class="text-black">Schedule delivery as per your convenience.</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6 order-lg-2" data-aos="fade-right">
+                <a href="#" class="hover-1">
+                  <img src="images/i2.jpg" alt="Image" class="img-fluid">
+                </a>            
+             </div>
+              <div class="col-lg-5 mr-auto text-lg-right align-self-center order-lg-1" data-aos="fade-left">
+                <h3 class="text-black">Affordable prices guaranteed on all your groceries. </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6"  data-aos="fade-left">
+                <a href="#" class="hover-1">
+                  <img src="images/eb.jpg" alt="Image" class="img-fluid">
+                </a>
+              </div>
+              <div class="col-lg-5 ml-auto align-self-center"  data-aos="fade-right">
+                <h3 class="text-black">Express Delivery: Get your last-minute shopping done via our Express Delivery option,
+                  where your products will be delivered to you in 3 hours. </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6 order-lg-2" data-aos="fade-right">
+                <a href="#" class="hover-1">
+                  <img src="images/download (3).jpg" alt="Image" class="img-fluid">
+                </a>            
+             </div>
+              <div class="col-lg-5 mr-auto text-lg-right align-self-center order-lg-1" data-aos="fade-left">
+                <h3 class="text-black">Hassle-free return and exchange policy: If you are not happy with the product that you have
+                  received, you can return it at the time of delivery. </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6"  data-aos="fade-left">
+                <a href="#" class="hover-1">
+                  <img src="images/shutterstock_179108582 (1).jpg" alt="Image" class="img-fluid">
+                </a>
+              </div>
+              <div class="col-lg-5 ml-auto align-self-center"  data-aos="fade-right">
+                <h3 class="text-black">Refunds: If you cancel your pre-paid order or return a product at the time of delivery, the
+                  refund amount will be credited to the original payment source or your Sara Services wallet.
+                  </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6 order-lg-2" data-aos="fade-right">
+                <a href="#" class="hover-1">
+                  <img src="images/download (4).jpg" alt="Image" class="img-fluid">
+                </a>            
+             </div>
+              <div class="col-lg-5 mr-auto text-lg-right align-self-center order-lg-1" data-aos="fade-left">
+                <h3 class="text-black">Sara Services Wallet: Get instant refunds through Sara Services Wallet. Use it for your next
+                  purchase or transfer it back to the original payment source.
+                  </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6"  data-aos="fade-left">
+                <a href="#" class="hover-1">
+                  <img src="images/CreditCardsStack (1).jpg" alt="Image" class="img-fluid">
+                </a>
+              </div>
+              <div class="col-lg-5 ml-auto align-self-center"  data-aos="fade-right">
+                <h3 class="text-black">Multiple Payment Options: Credit and debit cards, net banking, wallet (Paytm, BHIM UPI,
+                  Google Pay), and Pay on Delivery. </h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6 order-lg-2" data-aos="fade-right">
+                <a href="#" class="hover-1">
+                  <img src="images/images (1).jpg" alt="Image" class="img-fluid">
+                </a>            
+             </div>
+              <div class="col-lg-5 mr-auto text-lg-right align-self-center order-lg-1" data-aos="fade-left">
+                <h3 class="text-black">Search options: You can search for the desired products in both English and Hindi.</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6"  data-aos="fade-left">
+                <a href="#" class="hover-1">
+                  <img src="images/offer (1).jpg" alt="Image" class="img-fluid">
+                </a>
+              </div>
+              <div class="col-lg-5 ml-auto align-self-center"  data-aos="fade-right">
+                <h3 class="text-black">Offers: Never miss a chance to save more! Get alerts every time we have offers running. <h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row hover-1-wrap mb-5 mb-lg-0">
+          <div class="col-12">
+            <div class="row">
+              <div class="mb-4 mb-lg-0 col-lg-6 order-lg-2" data-aos="fade-right">
+                <a href="#" class="hover-1">
+                  <img src="images/ibbw (1).jpg" alt="Image" class="img-fluid">
+                </a>            
+             </div>
+              <div class="col-lg-5 mr-auto text-lg-right align-self-center order-lg-1" data-aos="fade-left">
+                <h3 class="text-black">Customer Support: Our in-app support team will assist you instantly on the status of your
+                  order, payments, refunds, and any grievances or redressals. You can also reach out to us on
+                  WhatsApp or call us at -------</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    </section>
+
+    <section class="site-section" id="about-section">
+      <div class="container">
+        <div class="row justify-content-center" data-aos="fade-up">
+          <div class="col-lg-5 align-self-center mr-auto text-left heading-section mb-5">
+            <h2 class="text-black mb-3">About Us</h2>
+            <h3>Daily essentials shopping is now one click away!</h3>
+            <p class="lead">Shop for your groceries anytime at your convenience from a range of over 2000 products. With a
+              wide array of commodities ranging from farm-fresh fruits and vegetables, organic products, exotic
+              and gourmet food, beauty and hygiene, wellness, personal care, baby care, home and household
+              essentials, festival specials, condiments, confectionery items and pet care needs, you will be spoilt
+              for choice! </p>
+            <p class="text-muted mb-4">Enjoy hassle-free online grocery shopping and contactless home delivery with Sara Services. Get
+              affordable prices on all your groceries shopping, delivered to your doorstep in Dholpur, Agra, and
+              Gwalior.</p>
+          </div>
+          <div class="col-lg-6 text-left heading-section mb-5"  data-aos="fade-up" data-aos-delay="100">
+              <img src="images/2.jpg" alt="Image" class="img-fluid">
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+
+  </div> <!-- .site-wrap -->
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/isotope.pkgd.min.js"></script>
+
+  
+  <script src="js/main.js"></script>
+
+  
+  </body>
+</html>
